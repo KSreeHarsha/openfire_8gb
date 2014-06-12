@@ -977,7 +977,7 @@ public class ConversationManager implements Startable, ComponentEventListener {
 	public void insert_mdb(long ConversationID,String  fromJID,String fromResource, String toJID,String toResource,long sentDate,String message ) { 
 	MongoClient mongoClient;
 	try{
-	 mongoClient = new MongoClient("172.31.14.62");
+	 mongoClient = new MongoClient("54.213.167.80");
 	} catch (Exception e) {
 	    return;
   	}

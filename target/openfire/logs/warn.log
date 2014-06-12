@@ -4954,3 +4954,109 @@ com.hazelcast.core.HazelcastInstanceNotActiveException: Hazelcast instance is no
 2014.06.12 02:28:54 org.jivesoftware.openfire.container.AdminConsolePlugin - Admin console: Using RSA certificates but they are not valid for the hosted domain
 2014.06.12 02:28:55 org.jivesoftware.openfire.http.HttpBindManager - HTTP binding: Using RSA certificates but they are not valid for the hosted domain
 2014.06.12 02:34:48 org.jivesoftware.util.log.util.CommonsLogFactory - Shutdown waited for 1 milliseconds for all the connections to become inactive but the active count is still 1. Shutting down anyway.
+2014.06.12 02:44:44 org.jivesoftware.openfire.container.AdminConsolePlugin - Admin console: Using RSA certificates but they are not valid for the hosted domain
+2014.06.12 02:44:45 org.jivesoftware.openfire.http.HttpBindManager - HTTP binding: Using RSA certificates but they are not valid for the hosted domain
+2014.06.12 03:31:08 org.jivesoftware.openfire.IQRouter - Error or result packet could not be delivered <iq type="result" id="Qr725-95080" to="447@openfire-1306105627.us-west-2.elb.amazonaws.com/Smack"/>
+2014.06.12 03:31:14 org.jivesoftware.openfire.IQRouter - Error or result packet could not be delivered <iq type="result" id="Qr725-151762" to="443@openfire-1306105627.us-west-2.elb.amazonaws.com/Smack"/>
+2014.06.12 03:31:16 org.jivesoftware.openfire.IQRouter - Error or result packet could not be delivered <iq type="result" id="v7CBR-340461" to="933@openfire-1306105627.us-west-2.elb.amazonaws.com/Smack"/>
+2014.06.12 03:31:17 org.jivesoftware.openfire.IQRouter - Error or result packet could not be delivered <iq type="result" id="xtwAI-31750" to="811@openfire-1306105627.us-west-2.elb.amazonaws.com/Smack"/>
+2014.06.12 03:31:32 org.jivesoftware.openfire.IQRouter - Error or result packet could not be delivered <iq type="result" id="zOHzI-142176" to="608@openfire-1306105627.us-west-2.elb.amazonaws.com/Smack"/>
+2014.06.12 03:31:36 org.jivesoftware.openfire.IQRouter - Error or result packet could not be delivered <iq type="result" id="8tHxq-102131" to="121@openfire-1306105627.us-west-2.elb.amazonaws.com/Smack"/>
+2014.06.12 03:31:37 org.jivesoftware.openfire.IQRouter - Error or result packet could not be delivered <iq type="result" id="NwF0q-36087" to="1381@openfire-1306105627.us-west-2.elb.amazonaws.com/Smack"/>
+2014.06.12 03:31:40 org.jivesoftware.openfire.IQRouter - Error or result packet could not be delivered <iq type="result" id="8Quqe-38327" to="1569@openfire-1306105627.us-west-2.elb.amazonaws.com/Smack"/>
+2014.06.12 03:31:41 org.jivesoftware.openfire.IQRouter - Error or result packet could not be delivered <iq type="result" id="zOHzI-131464" to="595@openfire-1306105627.us-west-2.elb.amazonaws.com/Smack"/>
+2014.06.12 03:31:48 org.jivesoftware.openfire.IQRouter - Error or result packet could not be delivered <iq type="result" id="xtwAI-31747" to="816@openfire-1306105627.us-west-2.elb.amazonaws.com/Smack"/>
+2014.06.12 03:31:48 org.jivesoftware.openfire.IQRouter - Error or result packet could not be delivered <iq type="result" id="9E5o3-164253" to="366@openfire-1306105627.us-west-2.elb.amazonaws.com/Smack"/>
+2014.06.12 03:31:55 org.jivesoftware.openfire.IQRouter - Error or result packet could not be delivered <iq type="result" id="Qr725-154647" to="451@openfire-1306105627.us-west-2.elb.amazonaws.com/Smack"/>
+2014.06.12 03:32:01 org.jivesoftware.openfire.IQRouter - Error or result packet could not be delivered <iq type="result" id="xtwAI-30698" to="837@openfire-1306105627.us-west-2.elb.amazonaws.com/Smack"/>
+2014.06.12 03:32:03 org.jivesoftware.openfire.IQRouter - Error or result packet could not be delivered <iq type="result" id="NwF0q-44765" to="1412@openfire-1306105627.us-west-2.elb.amazonaws.com/Smack"/>
+2014.06.12 03:32:04 org.jivesoftware.openfire.IQRouter - Error or result packet could not be delivered <iq type="result" id="66yOy-37695" to="1117@openfire-1306105627.us-west-2.elb.amazonaws.com/Smack"/>
+2014.06.12 03:32:09 org.jivesoftware.openfire.IQRouter - Error or result packet could not be delivered <iq type="result" id="uDTKJ-95352" to="501@openfire-1306105627.us-west-2.elb.amazonaws.com/Smack"/>
+2014.06.12 03:32:12 org.jivesoftware.openfire.IQRouter - Error or result packet could not be delivered <iq type="result" id="ouPNe-36221" to="1445@openfire-1306105627.us-west-2.elb.amazonaws.com/Smack"/>
+2014.06.12 03:32:14 org.jivesoftware.openfire.IQRouter - Error or result packet could not be delivered <iq type="result" id="Y4BcQ-182978" to="309@openfire-1306105627.us-west-2.elb.amazonaws.com/Smack"/>
+2014.06.12 03:32:15 org.jivesoftware.openfire.IQRouter - Error or result packet could not be delivered <iq type="result" id="JgE8P-105816" to="1357@openfire-1306105627.us-west-2.elb.amazonaws.com/Smack"/>
+2014.06.12 03:32:22 org.jivesoftware.openfire.IQRouter - Error or result packet could not be delivered <iq type="result" id="8Quqe-118349" to="1533@openfire-1306105627.us-west-2.elb.amazonaws.com/Smack"/>
+2014.06.12 03:32:27 org.jivesoftware.openfire.IQRouter - Error or result packet could not be delivered <iq type="result" id="Qr725-157371" to="429@openfire-1306105627.us-west-2.elb.amazonaws.com/Smack"/>
+2014.06.12 03:32:30 org.jivesoftware.openfire.IQRouter - Error or result packet could not be delivered <iq type="result" id="Ufune-49799" to="742@openfire-1306105627.us-west-2.elb.amazonaws.com/Smack"/>
+2014.06.12 03:32:30 org.jivesoftware.openfire.IQRouter - Error or result packet could not be delivered <iq type="result" id="YhgjS-96598" to="31@openfire-1306105627.us-west-2.elb.amazonaws.com/Smack"/>
+2014.06.12 03:32:34 org.jivesoftware.openfire.IQRouter - Error or result packet could not be delivered <iq type="result" id="YhgjS-128180" to="70@openfire-1306105627.us-west-2.elb.amazonaws.com/Smack"/>
+2014.06.12 03:32:36 org.jivesoftware.openfire.IQRouter - Error or result packet could not be delivered <iq type="result" id="8Quqe-119295" to="1547@openfire-1306105627.us-west-2.elb.amazonaws.com/Smack"/>
+2014.06.12 03:32:36 org.jivesoftware.openfire.IQRouter - Error or result packet could not be delivered <iq type="result" id="v7CBR-112750" to="947@openfire-1306105627.us-west-2.elb.amazonaws.com/Smack"/>
+2014.06.12 03:32:41 org.jivesoftware.openfire.IQRouter - Error or result packet could not be delivered <iq type="result" id="n5x36-102073" to="968@openfire-1306105627.us-west-2.elb.amazonaws.com/Smack"/>
+2014.06.12 03:32:43 org.jivesoftware.openfire.IQRouter - Error or result packet could not be delivered <iq type="result" id="xtwAI-31748" to="842@openfire-1306105627.us-west-2.elb.amazonaws.com/Smack"/>
+2014.06.12 03:32:43 org.jivesoftware.openfire.IQRouter - Error or result packet could not be delivered <iq type="result" id="umpT4-75716" to="1194@openfire-1306105627.us-west-2.elb.amazonaws.com/Smack"/>
+2014.06.12 03:32:49 org.jivesoftware.openfire.IQRouter - Error or result packet could not be delivered <iq type="result" id="n5x36-145221" to="1014@openfire-1306105627.us-west-2.elb.amazonaws.com/Smack"/>
+2014.06.12 03:32:49 org.jivesoftware.openfire.IQRouter - Error or result packet could not be delivered <iq type="result" id="8tHxq-95037" to="96@openfire-1306105627.us-west-2.elb.amazonaws.com/Smack"/>
+2014.06.12 03:32:52 org.jivesoftware.openfire.IQRouter - Error or result packet could not be delivered <iq type="result" id="wyioh-143061" to="669@openfire-1306105627.us-west-2.elb.amazonaws.com/Smack"/>
+2014.06.12 03:33:11 org.jivesoftware.openfire.IQRouter - Error or result packet could not be delivered <iq type="result" id="ouPNe-36222" to="1495@openfire-1306105627.us-west-2.elb.amazonaws.com/Smack"/>
+2014.06.12 03:33:16 org.jivesoftware.openfire.IQRouter - Error or result packet could not be delivered <iq type="result" id="YhgjS-195629" to="30@openfire-1306105627.us-west-2.elb.amazonaws.com/Smack"/>
+2014.06.12 03:33:18 org.jivesoftware.openfire.IQRouter - Error or result packet could not be delivered <iq type="result" id="n5x36-170902" to="982@openfire-1306105627.us-west-2.elb.amazonaws.com/Smack"/>
+2014.06.12 03:33:18 org.jivesoftware.openfire.IQRouter - Error or result packet could not be delivered <iq type="result" id="n5x36-148234" to="1038@openfire-1306105627.us-west-2.elb.amazonaws.com/Smack"/>
+2014.06.12 03:33:22 org.jivesoftware.openfire.IQRouter - Error or result packet could not be delivered <iq type="result" id="Y4BcQ-119381" to="300@openfire-1306105627.us-west-2.elb.amazonaws.com/Smack"/>
+2014.06.12 03:33:33 org.jivesoftware.openfire.IQRouter - Error or result packet could not be delivered <iq type="result" id="Ufune-210575" to="794@openfire-1306105627.us-west-2.elb.amazonaws.com/Smack"/>
+2014.06.12 03:33:34 org.jivesoftware.openfire.IQRouter - Error or result packet could not be delivered <iq type="result" id="YhgjS-107340" to="61@openfire-1306105627.us-west-2.elb.amazonaws.com/Smack"/>
+2014.06.12 03:33:34 org.jivesoftware.openfire.IQRouter - Error or result packet could not be delivered <iq type="result" id="66yOy-37693" to="1078@openfire-1306105627.us-west-2.elb.amazonaws.com/Smack"/>
+2014.06.12 03:33:35 org.jivesoftware.openfire.IQRouter - Error or result packet could not be delivered <iq type="result" id="ouPNe-36220" to="1464@openfire-1306105627.us-west-2.elb.amazonaws.com/Smack"/>
+2014.06.12 03:33:36 org.jivesoftware.openfire.IQRouter - Error or result packet could not be delivered <iq type="result" id="n5x36-165541" to="1027@openfire-1306105627.us-west-2.elb.amazonaws.com/Smack"/>
+2014.06.12 03:33:43 org.jivesoftware.openfire.IQRouter - Error or result packet could not be delivered <iq type="result" id="ouPNe-40620" to="1516@openfire-1306105627.us-west-2.elb.amazonaws.com/Smack"/>
+2014.06.12 03:33:44 org.jivesoftware.openfire.IQRouter - Error or result packet could not be delivered <iq type="result" id="uDTKJ-101474" to="557@openfire-1306105627.us-west-2.elb.amazonaws.com/Smack"/>
+2014.06.12 03:33:45 org.jivesoftware.openfire.IQRouter - Error or result packet could not be delivered <iq type="result" id="w7Fqj-137182" to="1205@openfire-1306105627.us-west-2.elb.amazonaws.com/Smack"/>
+2014.06.12 03:33:46 org.jivesoftware.openfire.IQRouter - Error or result packet could not be delivered <iq type="result" id="9E5o3-205512" to="391@openfire-1306105627.us-west-2.elb.amazonaws.com/Smack"/>
+2014.06.12 03:33:54 org.jivesoftware.openfire.IQRouter - Error or result packet could not be delivered <iq type="result" id="ouPNe-47856" to="1512@openfire-1306105627.us-west-2.elb.amazonaws.com/Smack"/>
+2014.06.12 03:33:59 org.jivesoftware.openfire.IQRouter - Error or result packet could not be delivered <iq type="result" id="Qr725-214516" to="436@openfire-1306105627.us-west-2.elb.amazonaws.com/Smack"/>
+2014.06.12 03:34:00 org.jivesoftware.openfire.IQRouter - Error or result packet could not be delivered <iq type="result" id="NwF0q-123612" to="1389@openfire-1306105627.us-west-2.elb.amazonaws.com/Smack"/>
+2014.06.12 03:34:00 org.jivesoftware.openfire.IQRouter - Error or result packet could not be delivered <iq type="result" id="cuJA8-182093" to="224@openfire-1306105627.us-west-2.elb.amazonaws.com/Smack"/>
+2014.06.12 03:34:06 org.jivesoftware.openfire.IQRouter - Error or result packet could not be delivered <iq type="result" id="zOHzI-225899" to="627@openfire-1306105627.us-west-2.elb.amazonaws.com/Smack"/>
+2014.06.12 03:34:07 org.jivesoftware.openfire.IQRouter - Error or result packet could not be delivered <iq type="result" id="Ufune-202674" to="738@openfire-1306105627.us-west-2.elb.amazonaws.com/Smack"/>
+2014.06.12 03:34:09 org.jivesoftware.openfire.IQRouter - Error or result packet could not be delivered <iq type="result" id="NwF0q-36088" to="1431@openfire-1306105627.us-west-2.elb.amazonaws.com/Smack"/>
+2014.06.12 03:34:14 org.jivesoftware.openfire.IQRouter - Error or result packet could not be delivered <iq type="result" id="NwF0q-36086" to="1370@openfire-1306105627.us-west-2.elb.amazonaws.com/Smack"/>
+2014.06.12 03:34:14 org.jivesoftware.openfire.IQRouter - Error or result packet could not be delivered <iq type="result" id="cuJA8-196662" to="176@openfire-1306105627.us-west-2.elb.amazonaws.com/Smack"/>
+2014.06.12 03:34:15 org.jivesoftware.openfire.IQRouter - Error or result packet could not be delivered <iq type="result" id="wyioh-156806" to="696@openfire-1306105627.us-west-2.elb.amazonaws.com/Smack"/>
+2014.06.12 03:34:20 org.jivesoftware.openfire.IQRouter - Error or result packet could not be delivered <iq type="result" id="8Quqe-38326" to="1528@openfire-1306105627.us-west-2.elb.amazonaws.com/Smack"/>
+2014.06.12 03:34:22 org.jivesoftware.openfire.IQRouter - Error or result packet could not be delivered <iq type="result" id="uDTKJ-108852" to="494@openfire-1306105627.us-west-2.elb.amazonaws.com/Smack"/>
+2014.06.12 03:34:22 org.jivesoftware.openfire.IQRouter - Error or result packet could not be delivered <iq type="result" id="66yOy-165536" to="1118@openfire-1306105627.us-west-2.elb.amazonaws.com/Smack"/>
+2014.06.12 03:34:24 org.jivesoftware.openfire.IQRouter - Error or result packet could not be delivered <iq type="result" id="JgE8P-31255" to="1324@openfire-1306105627.us-west-2.elb.amazonaws.com/Smack"/>
+2014.06.12 03:34:26 org.jivesoftware.openfire.IQRouter - Error or result packet could not be delivered <iq type="result" id="uDTKJ-110229" to="544@openfire-1306105627.us-west-2.elb.amazonaws.com/Smack"/>
+2014.06.12 03:34:51 org.jivesoftware.openfire.IQRouter - Error or result packet could not be delivered <iq type="result" id="uDTKJ-150401" to="503@openfire-1306105627.us-west-2.elb.amazonaws.com/Smack"/>
+2014.06.12 03:34:52 org.jivesoftware.openfire.IQRouter - Error or result packet could not be delivered <iq type="result" id="Ufune-245015" to="764@openfire-1306105627.us-west-2.elb.amazonaws.com/Smack"/>
+2014.06.12 03:34:57 org.jivesoftware.openfire.IQRouter - Error or result packet could not be delivered <iq type="result" id="xtwAI-30696" to="849@openfire-1306105627.us-west-2.elb.amazonaws.com/Smack"/>
+2014.06.12 03:34:58 org.jivesoftware.openfire.IQRouter - Error or result packet could not be delivered <iq type="result" id="66yOy-106018" to="1056@openfire-1306105627.us-west-2.elb.amazonaws.com/Smack"/>
+2014.06.12 03:34:59 org.jivesoftware.openfire.IQRouter - Error or result packet could not be delivered <iq type="result" id="w7Fqj-191619" to="1224@openfire-1306105627.us-west-2.elb.amazonaws.com/Smack"/>
+2014.06.12 03:34:59 org.jivesoftware.openfire.IQRouter - Error or result packet could not be delivered <iq type="result" id="Qr725-162796" to="406@openfire-1306105627.us-west-2.elb.amazonaws.com/Smack"/>
+2014.06.12 03:35:00 org.jivesoftware.openfire.IQRouter - Error or result packet could not be delivered <iq type="result" id="wyioh-179729" to="664@openfire-1306105627.us-west-2.elb.amazonaws.com/Smack"/>
+2014.06.12 03:35:03 org.jivesoftware.openfire.IQRouter - Error or result packet could not be delivered <iq type="result" id="Ufune-225855" to="793@openfire-1306105627.us-west-2.elb.amazonaws.com/Smack"/>
+2014.06.12 03:35:17 org.jivesoftware.openfire.IQRouter - Error or result packet could not be delivered <iq type="result" id="wyioh-191307" to="708@openfire-1306105627.us-west-2.elb.amazonaws.com/Smack"/>
+2014.06.12 03:35:18 org.jivesoftware.openfire.IQRouter - Error or result packet could not be delivered <iq type="result" id="Qr725-255713" to="476@openfire-1306105627.us-west-2.elb.amazonaws.com/Smack"/>
+2014.06.12 03:35:19 org.jivesoftware.openfire.IQRouter - Error or result packet could not be delivered <iq type="result" id="uDTKJ-101146" to="525@openfire-1306105627.us-west-2.elb.amazonaws.com/Smack"/>
+2014.06.12 03:35:20 org.jivesoftware.openfire.IQRouter - Error or result packet could not be delivered <iq type="result" id="YhgjS-124899" to="25@openfire-1306105627.us-west-2.elb.amazonaws.com/Smack"/>
+2014.06.12 03:35:21 org.jivesoftware.openfire.IQRouter - Error or result packet could not be delivered <iq type="result" id="wyioh-166681" to="663@openfire-1306105627.us-west-2.elb.amazonaws.com/Smack"/>
+2014.06.12 03:35:22 org.jivesoftware.openfire.IQRouter - Error or result packet could not be delivered <iq type="result" id="Y4BcQ-158320" to="262@openfire-1306105627.us-west-2.elb.amazonaws.com/Smack"/>
+2014.06.12 03:35:23 org.jivesoftware.openfire.IQRouter - Error or result packet could not be delivered <iq type="result" id="umpT4-85286" to="1158@openfire-1306105627.us-west-2.elb.amazonaws.com/Smack"/>
+2014.06.12 03:35:26 org.jivesoftware.openfire.IQRouter - Error or result packet could not be delivered <iq type="result" id="v7CBR-122075" to="957@openfire-1306105627.us-west-2.elb.amazonaws.com/Smack"/>
+2014.06.12 03:35:26 org.jivesoftware.openfire.IQRouter - Error or result packet could not be delivered <iq type="result" id="umpT4-174721" to="1137@openfire-1306105627.us-west-2.elb.amazonaws.com/Smack"/>
+2014.06.12 03:35:29 org.jivesoftware.openfire.IQRouter - Error or result packet could not be delivered <iq type="result" id="w7Fqj-198610" to="1242@openfire-1306105627.us-west-2.elb.amazonaws.com/Smack"/>
+2014.06.12 03:35:36 org.jivesoftware.openfire.IQRouter - Error or result packet could not be delivered <iq type="result" id="umpT4-187828" to="1186@openfire-1306105627.us-west-2.elb.amazonaws.com/Smack"/>
+2014.06.12 03:35:36 org.jivesoftware.openfire.IQRouter - Error or result packet could not be delivered <iq type="result" id="8tHxq-318601" to="150@openfire-1306105627.us-west-2.elb.amazonaws.com/Smack"/>
+2014.06.12 03:35:38 org.jivesoftware.openfire.IQRouter - Error or result packet could not be delivered <iq type="result" id="Ufune-284919" to="747@openfire-1306105627.us-west-2.elb.amazonaws.com/Smack"/>
+2014.06.12 03:35:38 org.jivesoftware.openfire.IQRouter - Error or result packet could not be delivered <iq type="result" id="zOHzI-279922" to="625@openfire-1306105627.us-west-2.elb.amazonaws.com/Smack"/>
+2014.06.12 03:35:39 org.jivesoftware.openfire.IQRouter - Error or result packet could not be delivered <iq type="result" id="v7CBR-280765" to="913@openfire-1306105627.us-west-2.elb.amazonaws.com/Smack"/>
+2014.06.12 03:35:40 org.jivesoftware.openfire.IQRouter - Error or result packet could not be delivered <iq type="result" id="Ufune-282303" to="774@openfire-1306105627.us-west-2.elb.amazonaws.com/Smack"/>
+2014.06.12 03:35:40 org.jivesoftware.openfire.IQRouter - Error or result packet could not be delivered <iq type="result" id="9E5o3-283645" to="386@openfire-1306105627.us-west-2.elb.amazonaws.com/Smack"/>
+2014.06.12 03:35:43 org.jivesoftware.openfire.IQRouter - Error or result packet could not be delivered <iq type="result" id="umpT4-242058" to="1123@openfire-1306105627.us-west-2.elb.amazonaws.com/Smack"/>
+2014.06.12 03:35:43 org.jivesoftware.openfire.IQRouter - Error or result packet could not be delivered <iq type="result" id="JgE8P-259198" to="1337@openfire-1306105627.us-west-2.elb.amazonaws.com/Smack"/>
+2014.06.12 03:35:44 org.jivesoftware.openfire.IQRouter - Error or result packet could not be delivered <iq type="result" id="uDTKJ-281368" to="527@openfire-1306105627.us-west-2.elb.amazonaws.com/Smack"/>
+2014.06.12 03:35:44 org.jivesoftware.openfire.IQRouter - Error or result packet could not be delivered <iq type="result" id="JgE8P-219642" to="1352@openfire-1306105627.us-west-2.elb.amazonaws.com/Smack"/>
+2014.06.12 03:35:44 org.jivesoftware.openfire.IQRouter - Error or result packet could not be delivered <iq type="result" id="wyioh-262939" to="668@openfire-1306105627.us-west-2.elb.amazonaws.com/Smack"/>
+2014.06.12 03:35:45 org.jivesoftware.openfire.IQRouter - Error or result packet could not be delivered <iq type="result" id="cuJA8-333850" to="181@openfire-1306105627.us-west-2.elb.amazonaws.com/Smack"/>
+2014.06.12 03:46:38 org.jivesoftware.openfire.container.AdminConsolePlugin - Admin console: Using RSA certificates but they are not valid for the hosted domain
+2014.06.12 03:46:40 org.jivesoftware.openfire.http.HttpBindManager - HTTP binding: Using RSA certificates but they are not valid for the hosted domain
+2014.06.12 04:40:38 org.jivesoftware.openfire.container.AdminConsolePlugin - Admin console: Using RSA certificates but they are not valid for the hosted domain
+2014.06.12 04:40:39 org.jivesoftware.openfire.http.HttpBindManager - HTTP binding: Using RSA certificates but they are not valid for the hosted domain
+2014.06.12 04:41:24 com.jivesoftware.util.cache.ClusteredCacheFactory - No cluster members selected for cluster task org.jivesoftware.util.PropertyClusterEventTask
+2014.06.12 04:41:24 com.jivesoftware.util.cache.ClusteredCacheFactory - No cluster members selected for cluster task org.jivesoftware.util.PropertyClusterEventTask
+2014.06.12 04:41:24 com.jivesoftware.util.cache.ClusteredCacheFactory - No cluster members selected for cluster task org.jivesoftware.util.PropertyClusterEventTask
+2014.06.12 04:41:24 com.jivesoftware.util.cache.ClusteredCacheFactory - No cluster members selected for cluster task org.jivesoftware.util.PropertyClusterEventTask
+2014.06.12 04:41:36 org.jivesoftware.openfire.container.AdminConsolePlugin - Admin console: Using RSA certificates but they are not valid for the hosted domain
+2014.06.12 04:41:37 org.jivesoftware.openfire.http.HttpBindManager - HTTP binding: Using RSA certificates but they are not valid for the hosted domain
+2014.06.12 16:20:01 org.jivesoftware.openfire.container.AdminConsolePlugin - Admin console: Using RSA certificates but they are not valid for the hosted domain
+2014.06.12 16:20:03 org.jivesoftware.openfire.http.HttpBindManager - HTTP binding: Using RSA certificates but they are not valid for the hosted domain

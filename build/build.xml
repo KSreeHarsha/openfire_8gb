@@ -1307,10 +1307,10 @@
     <target name="plugin" description="build one plugin">
         <mkdir dir="${plugin.dest.dir}"/>
 
-        <delete dir="${plugin.dev.dest.dir}/hazelcast"/>
-        <delete file="${plugin.dev.dest.dir}/hazelcast.jar"/>
-        <delete file="${plugin.dest.dir}/hazelcast.jar"/>
-        <buildplugin plugin="hazelcast" pluginsrc="${plugin.src.dir}"/>
+        <delete dir="${plugin.dev.dest.dir}/monitoring"/>
+        <delete file="${plugin.dev.dest.dir}/monitoring.jar"/>
+        <delete file="${plugin.dest.dir}/monitoring.jar"/>
+        <buildplugin plugin="monitoring" pluginsrc="${plugin.src.dir}"/>
 
         <!-- Update/create target/openfire directory -->
         <antcall target="openfireHome"/>

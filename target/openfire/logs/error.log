@@ -511,3 +511,6 @@ java.lang.ClassCastException: org.bouncycastle.asn1.DERTaggedObject cannot be ca
 	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:598)
 	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:533)
 	at java.lang.Thread.run(Thread.java:744)
+2014.06.13 01:14:13 org.jivesoftware.openfire.archive.ConversationManager - ###***###:Saving Message to Mg db
+2014.06.13 01:14:13 org.jivesoftware.openfire.archive.ConversationManager - ###***###:Saving Message to Mg db
+2014.06.13 01:14:13 org.jivesoftware.openfire.archive.ConversationManager - ###***###:Saving Message to Mg db

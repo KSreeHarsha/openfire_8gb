@@ -39,8 +39,8 @@
     <defaultProvider> 
       <driver>com.mysql.jdbc.Driver</driver>  
       <serverURL>jdbc:mysql://localhost:3306/openfire?rewriteBatchedStatements=true</serverURL>  
-      <username encrypted="true">4bc73ef7ad61c3b629d68ee91c06ad40cb3cede3b1eaa910</username>  
-      <password encrypted="true">a69b60290eb7c405274cf14732e855111e7cbe88f674b9e8</password>  
+      <username encrypted="true">ca0797d0296c8f76dcb7c6e7ecec938b4304757ce7464c8b</username>  
+      <password encrypted="true">61d574321a98380933636e903da9c8edf7f7c7ad66b448e6</password>  
       <testSQL>select 1</testSQL>  
       <testBeforeUse>false</testBeforeUse>  
       <testAfterUse>false</testAfterUse>  
@@ -49,8 +49,5 @@
       <connectionTimeout>1.0</connectionTimeout> 
     </defaultProvider> 
   </database>  
-  <setup>true</setup>  
-  <clustering> 
-    <enabled>true</enabled> 
-  </clustering> 
+  <setup>true</setup>
 </jive>

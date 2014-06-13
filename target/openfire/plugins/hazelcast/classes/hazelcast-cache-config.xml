@@ -26,11 +26,17 @@
     <network>
         <port auto-increment="true">5701</port>
         <join>
-            <multicast enabled="true">
-                <multicast-group>224.2.2.3</multicast-group>
-                <multicast-port>54327</multicast-port>
-            </multicast>
-            <tcp-ip enabled="false"/>
+	    <multicast enabled="false"/>
+            <tcp-ip enabled="true">
+	    	<member>172.31.1.37</member>
+	    	<member>172.31.1.38</member>
+	    	<member>172.31.1.39</member>
+	    	<member>172.31.1.40</member>
+	    	<member>172.31.1.41</member>
+	    	<member>172.31.1.42</member>
+	    	<member>172.31.1.43</member>
+	    	<member>172.31.1.44</member>
+	    </tcp-ip>
             <aws enabled="false"/>
         </join>
         <interfaces enabled="false"/>
